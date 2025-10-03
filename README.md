@@ -5,7 +5,7 @@
 * 👂 `My name is`: **Pau**,
 * ⚡ `I'm`: **18 years old**,
 * 🌱 `I’m currently learning`: **Multiplatform App Development**,
-* 💻 `Favorite languages`: **Python & TypeScript/JavaScript**
+* 💻 `Favorite languages`: **Python & TypeScript/JavaScript**,
 }
 
 <br/>
